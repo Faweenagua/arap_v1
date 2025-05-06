@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/phrancis/ros2_ws/install/test_arduinoRos_controller/lib/python3.12/site-packages",
+        "/home/phrancis/ros2_ws/install/my_robot_controller/lib/python3.12/site-packages",
+        "/home/phrancis/ros2_ws/install/arduinoRosSerial/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/phrancis/ros2_ws/install/test_arduinoRos_controller/lib/python3.12/site-packages",
+        "/home/phrancis/ros2_ws/install/my_robot_controller/lib/python3.12/site-packages",
+        "/home/phrancis/ros2_ws/install/arduinoRosSerial/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
